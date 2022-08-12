@@ -27,7 +27,7 @@ Apply erosion and dilation using cv2.erode and cv2.dilate.
 Plot the images using plt.imshow.
 <br>
 
- 
+   
 ## PROGRAM:
 
 ``` Python
